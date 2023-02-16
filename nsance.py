@@ -7,3 +7,4 @@ class nsance:
         self.nsance = 'nsance'
 	self.some_new_var = 'some new value'
 	self.another_new_var = "some new content"
+	self.csirt = "csirt"
